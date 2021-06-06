@@ -31,7 +31,7 @@ text.Show()
 
 ## GIF
 
-![](https://i.gyazo.com/5967b311cd847e5756ec1e4fb5670e94.mp4)
+![](https://resimyukle.imageupload.workers.dev/LmHSwEUk_5967b311cd847e5756ec1e4fb5670e94.gif)
 
 ## discord: dracaryS#9089
 ## skype: kuun_12
