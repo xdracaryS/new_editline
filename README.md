@@ -29,6 +29,10 @@ text.Show()
 	},
 ```
 
+## GIF
+![](https://gyazo.com/5967b311cd847e5756ec1e4fb5670e94)
+
+
 ## discord: dracaryS#9089
 ## skype: kuun_12
 ## website: http://dracarys.work
