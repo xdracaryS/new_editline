@@ -1,8 +1,5 @@
 # Back text in Editline
 
-
-## Example
-
 ## Using with static 
 ```
 text = ui.EditLineNew()
@@ -29,7 +26,7 @@ text.Show()
             "g": 1.0,
             "b": 1.0,
             "a": 1.0,
-				},
+	},
 ```
 
 ## discord: dracaryS#9089
